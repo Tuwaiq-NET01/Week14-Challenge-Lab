@@ -7,8 +7,8 @@
 
 ## React
 
-- count all the mouse clicks on any part of the page and display the count value.
-- get the username value from the form and view it in the header and in /user route
+- Count all the mouse clicks on any part of the page and display the count value.
+- Get the username value from the form and view it in the header and in /user route
 
 ## JavaScript
 
